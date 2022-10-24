@@ -1,0 +1,19 @@
+.nav-bar ul li{
+    text-align: center;
+    display: block;
+    padding: 15px 0;
+    transition: all 1s ease-in-out;
+}
+
+.nav-bar ul li:hover{
+    background: #fff;
+}
+
+.nav-bar ul li a{
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.nav-bar ul li a:hover{
+    text-decoration: underline;
+};

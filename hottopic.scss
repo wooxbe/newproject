@@ -38,6 +38,7 @@
     font-size: 15px;
     text-shadow: 0 0 2px #000;
     padding: 12px 10px;
+    // Если IDE Хорошая то тут она должна была подсказать. Моя пишет "Property padding is overwritten", то есть ты переписал свойство их 37 строки
 }
 
 .hot-topic-content a{

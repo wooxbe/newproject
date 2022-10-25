@@ -64,6 +64,8 @@
 }
 
 .main-container-right article h2{
+    // Советую вынести font-size: с разными значениями в отдельный класс или михин и просто его периспользовать, чтобы не писать везде
+    // К примеру, font-size: 14px можно поместить в класс .text_small и тп
     font-size: 18px;
     padding: 10px 0;
     font-family: var(--heading);
